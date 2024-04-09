@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="79">
+    <author>johnwayne1930</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Holmer Terra Dos T4-40 Plus</en>
+    </title>
+    <description>
+        <en>
+            <![CDATA[Terra Dos T4-40:
+Price: 495.000 €
+Power: 626 hp
+Top speed: 40 kph
+Capacity: 45.000 l
+
+HR 12:
+Price: 106.500 €
+Working width: 5.4 m
+
+HR12 Transport Trailer:
+Price: 12.000 €
+]]>
+</en>
+        <de>
+            <![CDATA[Terra Dos T4-40:
+Preis: 495.000 €
+Leistung: 626 hp
+Höchstgeschwindigkeit: 40 kph
+Kapazität: 45.000 l
+
+HR 12:
+Preis: 106.500 €
+Arbeitsbreite: 5.4 m
+
+HR12 Transport Trailer:
+Preis: 12.000 €
+]]>
+</de>
+        <fr>
+            <![CDATA[Terra Dos T4-40:
+Prix: 495.000 €
+Puissance: 626 hp
+Vitesse maximale: 40 kph
+Capacité: 45.000 l
+
+HR 12:
+Prix: 106.500 €
+Largeur de travail: 5.4 m
+
+HR12 Transport Trailer:
+Prix: 12.000 €
+]]>
+        </fr>
+    </description>
+    <iconFilename>terraDosT4_40/icon_terraDosT4_40.dds</iconFilename>
+    <multiplayer supported="true" />
+
+    <storeItems>
+        <storeItem xmlFilename="hr12/hr12.xml"/>
+        <storeItem xmlFilename="hr12Trailer/hr12Trailer.xml"/>
+        <storeItem xmlFilename="terraDosT4_40/terraDosT4_40.xml"/>
+    </storeItems>
+</modDesc>
